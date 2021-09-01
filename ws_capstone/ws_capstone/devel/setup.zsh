@@ -1,1 +1,0 @@
-/home/josh/Documents/GitHub/vision_grasp_capstone/ws_capstone/devel/.private/catkin_tools_prebuild/setup.zsh

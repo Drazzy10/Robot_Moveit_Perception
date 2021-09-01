@@ -1,8 +1,0 @@
-prefix=/home/josh/Documents/GitHub/vision_grasp_capstone/ws_capstone/install
-
-Name: main
-Description: Description of main
-Version: 1.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
